@@ -147,7 +147,9 @@ margin: 14px 0 7px 0;
 text-indent: 42px;
 }
 
-#content p {
+#content p,
+#content ol,
+#content ul {
     margin-bottom: 25px;
 }
 
