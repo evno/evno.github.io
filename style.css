@@ -147,7 +147,13 @@ margin: 14px 0 7px 0;
 text-indent: 42px;
 }
 
+#content p {
+    margin-bottom: 25px;
+}
+
+
 #content p.date {
 margin-bottom: 20px;
 color: #bbb;
 }
+
