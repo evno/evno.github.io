@@ -125,17 +125,21 @@ border-top: #e42 3px solid;
 padding: 50px 114px;    
 }
 
-#content h3 {
-margin-top: 14px;
-margin-bottom: 14px;
-}
-
 #content a {
     color: #e42;
 }
 
 #content a:hover {
     color: #bbb;
+}
+
+#content h2 a {
+    color: #343536;
+}
+
+#content h3 {
+margin-top: 14px;
+margin-bottom: 14px;
 }
 
 #content h4 {
