@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+<title>{{ page.title }}</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<base href="http://evno.github.com/" />
+<link rel="stylesheet" type="text/css" href="style.css" />
+
+</head>
+
+<body>
+
+<div id="wrap">
+
+<div id="menu">
+<ul class="nav">
+    <li {% if page.section == 'index' %}class="selected"{% endif %}>
+        <a href="./">Corpul omenesc</a></li>
+    <li> &nbsp; </li>
+    <li> &nbsp; </li>
+    <li {% if page.section == 'jurnal' %}class="selected"{% endif %}>
+        <a href="./jurnal.html">Jurnal</a>
+    </li>
+    <li {% if page.section == 'contact' %}class="selected"{% endif %}>
+        <a href="./contact.html">Contact</a>
+    </li>
+</ul>
+<ul class="nav">
+    <li {% if page.section == 'nervos' %}class="selected"{% endif %}>
+        <a href="./nervos.html">Nervos</a></li>
+    <li {% if page.section == 'endocrin' %}class="selected"{% endif %}>
+        <a href="./endocrin.html">Endocrin</a></li>
+    <li {% if page.section == 'osos' %}class="selected"{% endif %}>
+        <a href="./osos.html">Osos</a></li>
+    <li {% if page.section == 'muscular' %}class="selected"{% endif %}>
+        <a href="./muscular.html">Muscular</a></li>
+    <li>&nbsp;</li>
+</ul>
+<ul class="nav">
+    <li {% if page.section == 'digestiv' %}class="selected"{% endif %}>
+        <a href="./digestiv.html">Digestiv</a></li>
+    <li {% if page.section == 'circulator' %}class="selected"{% endif %}>
+        <a href="./circulator.html">Circulator</a></li>
+    <li {% if page.section == 'limfatic' %}class="selected"{% endif %}>
+        <a href="./limfatic.html">Limfatic</a></li>
+    <li {% if page.section == 'respirator' %}class="selected"{% endif %}>
+        <a href="./respirator.html">Respirator</a></li>
+    <li {% if page.section == 'excretor' %}class="selected"{% endif %}>
+        <a href="./excretor.html">Excretor</a></li>
+</ul>
+<ul class="nav">
+    <li {% if page.section == 'reproducator' %}class="selected"{% endif %}>
+        <a href="./reproducator.html">Reproducător</a>
+    </li>
+    <li> &nbsp; </li>
+    <li> &nbsp; </li>
+    <li> &nbsp; </li>
+    <li {% if page.section == 'glosar' %}class="selected"{% endif %}>
+       <a href="./glosar.html">Glosar termeni</a>
+    </li>
+</ul>
+</div>
+
+
+<div id="content">
+    <h2>{{ page.title }}</h2>
+    <p class="date">{{ page.date | date_to_string }}</p>
+    {{ content }}
+</div>
+
+</div>
+
+</body>
+
+</html>
