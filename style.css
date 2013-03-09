@@ -112,10 +112,9 @@ box-shadow: 0px 3px 3px -3px #bbb;
 background-color: #efe717;
 background-color: #fff;
 box-shadow:       0 0 10px #bbb;
-clear:            left;
-counter-reset:    graf;
 position:         relative;
 margin-top: 25px;
+border-top:#e42 3px solid;
 }
 
 #main .logo {
