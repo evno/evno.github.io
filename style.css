@@ -118,6 +118,10 @@ position:         relative;
 margin-top: 25px;
 }
 
+#main .logo {
+    margin-left: 50px;
+}
+
 #content {
 padding: 50px 114px;    
 }
