@@ -115,6 +115,7 @@ box-shadow:       0 0 10px #bbb;
 clear:            left;
 counter-reset:    graf;
 position:         relative;
+margin-top: 25px;
 }
 
 #content {
