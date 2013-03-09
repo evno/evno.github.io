@@ -1,0 +1,180 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700&subset=latin,latin-ext);
+
+body {
+background-color: #343536;
+font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 14px;
+line-height: 25px;
+color: #343536;
+margin: 0;
+padding: 0;
+}
+
+* {
+margin: 0;
+padding: 0;
+}
+
+a {
+text-decoration: none;
+-webkit-transition: color 0.3s;
+   -moz-transition: color 0.3s;
+        transition: color 0.3s;
+}
+
+#wrap {
+width: 728px;
+margin: 0 auto;
+}
+
+#menu {
+width: 500px;
+margin: 25px 114px;
+}
+
+.nav {
+list-style: none;
+margin-left: 0;
+font-size: 13px;
+line-height: 20px;
+width: 125px;
+float: left;
+color: #949696;
+margin-bottom: 25px;
+}
+
+.nav li a {
+color: #949696;
+}
+
+.nav li a:hover {
+color: #666768;
+}
+
+.nav li.selected a {
+color: #fff;
+}
+
+/*** HEADINGS ***/
+
+h2 {
+font-size: 24px;
+line-height: 25px;
+margin-bottom: 25px;
+color: #fff;
+}
+
+h2 a {
+color: #fff;
+}
+
+h2 a:hover {
+color: #666768;
+}
+
+h3 {
+font-size: 18px;
+line-height: 25px;
+color: #fff;
+}
+
+h4 {
+font-size: 14px;
+line-height: 25px;
+}
+
+.fb-like {
+margin: 25px 0 25px 115px;
+}
+
+#ad {
+background-color: #fff;
+display: block;
+width: 728px;
+padding: 10px 0;
+line-height: 15px;
+height: 15px;
+box-shadow: 0px 3px 3px -3px #bbb;
+}
+
+#adsense {
+background-color: #fff;
+display: block;
+width: 728px;
+height: 90px;
+box-shadow: 0px 3px 3px -3px #bbb;
+}
+
+/*** CONTENT ***/
+
+#main {
+background-color: #efe717;
+box-shadow:       0 0 10px #111;
+clear:            left;
+counter-reset:    graf;
+position:         relative;
+}
+
+#content {
+padding: 50px 114px;    
+}
+
+#content h3 {
+margin-top: 14px;
+margin-bottom: 14px;
+}
+
+#content h4 {
+margin: 14px 0 7px 0;
+text-indent: 42px;
+}
+
+#content p {
+      text-indent: 42px;
+       text-align: justify;
+counter-increment: graf;
+}
+
+#content p.noindent {
+text-indent: 0;    
+}
+
+#mainx:after {
+   content: counter(graf, decimal) " paragrafe";
+   display: block;
+  position: absolute;
+    bottom: -50px;
+     width: 500px;
+    height: 25px;
+   padding: 0 114px;
+ font-size: 12px;
+     color: #888888;
+text-align: right;
+}
+
+#context {
+height:        50px;
+padding:       10px 0;
+margin-bottom: 25px;
+border-top:    #343536 1px solid;
+border-bottom: #343536 1px solid;
+}
+
+#context ul.inline {
+font-size: 12px;
+list-style: none;
+width: 125px;
+float: left;
+}
+
+#context ul.inline li a {
+color: #343536;
+}
+
+#context ul.inline li a:hover {
+color: #666768;
+}
+
+#context ul.inline li.selected a {
+color: #fff;
+}
