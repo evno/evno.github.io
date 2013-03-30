@@ -10,6 +10,7 @@ tags:
 status: publish
 type: post
 published: true
+author: Lucian Marin
 meta: {}
 ---
 În sfârșit ne-am mutat de pe Blogger pe un domeniu separat, <a href="http://evno.ro/">evno.ro</a>. Pfft, deja începe să-mi fie dor de celălalt loc de joacă. Dar în același timp, mă bucur pentru că acesta este primul lucru bun din viața mea care nu se sfârsește, ci evoluează, poate chiar odată cu mine.

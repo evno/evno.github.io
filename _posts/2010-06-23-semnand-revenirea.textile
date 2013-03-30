@@ -6,6 +6,7 @@ tags:
 status: publish
 type: post
 published: true
+author: Luciana Petroiu
 meta:
   _edit_last: '3'
   _wp_old_slug: ''

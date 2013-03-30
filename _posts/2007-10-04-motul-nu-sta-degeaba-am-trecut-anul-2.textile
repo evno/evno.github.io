@@ -6,6 +6,7 @@ tags:
 status: publish
 type: post
 published: true
+author: Luciana Petroiu
 meta:
   blogger_blog: evno.blogspot.com
   blogger_author: Lu

@@ -8,6 +8,7 @@ tags:
 status: publish
 type: post
 published: true
+author: Luciana Petroiu
 meta:
   _edit_last: '1'
 ---

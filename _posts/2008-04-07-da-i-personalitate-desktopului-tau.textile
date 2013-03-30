@@ -9,6 +9,7 @@ tags:
 status: publish
 type: post
 published: true
+author: Corneliu Firan
 meta:
   _edit_last: '2'
 ---

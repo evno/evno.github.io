@@ -5,9 +5,10 @@ tags:
 - femei
 - oameni
 - Personal
-status: private
+status: publish
 type: post
-published: false
+published: true
+author: Lucian Marin
 meta:
   _edit_last: '2'
 ---
