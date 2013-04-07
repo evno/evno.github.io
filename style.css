@@ -95,7 +95,7 @@ margin: 25px 0 25px 115px;
     border-radius: 10px;
 }
 
-#thx p {
+#thx p:first-child {
     margin-left: 10px;
     padding-top: 5px;
 }
