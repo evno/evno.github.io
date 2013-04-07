@@ -125,7 +125,8 @@ border-top: #e42 3px solid;
 }
 
 #content {
-    margin: 50px 114px;    
+    margin: 50px 114px;
+    padding-bottom: 50px   
 }
 
 #content a {
