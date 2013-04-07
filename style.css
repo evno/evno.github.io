@@ -125,7 +125,7 @@ border-top: #e42 3px solid;
 }
 
 #content {
-padding: 50px 114px;    
+    margin: 50px 114px;    
 }
 
 #content a {
