@@ -88,22 +88,14 @@ line-height: 25px;
 margin: 25px 0 25px 115px;
 }
 
-#ad {
-background-color: #fff;
-display: block;
-width: 728px;
-padding: 10px 0;
-line-height: 15px;
-height: 15px;
-box-shadow: 0px 3px 3px -3px #bbb;
+#thx {
+    height: 60px;
 }
 
-#adsense {
-background-color: #fff;
-display: block;
-width: 728px;
-height: 90px;
-box-shadow: 0px 3px 3px -3px #bbb;
+#thx .ad {
+    width: 234px;
+    height: 60px;
+    float: right;
 }
 
 /*** CONTENT ***/
