@@ -89,7 +89,7 @@ margin: 25px 0 25px 115px;
 }
 
 #thx {
-    margin: 20px 114px 0 114px;    
+    margin: 25px 114px 0 114px;    
     height: 60px;
     background-color: #eee;
     border-radius: 10px;
@@ -122,7 +122,7 @@ border-top: #e42 3px solid;
 }
 
 #content {
-    margin: 50px 114px;
+    margin: 25px 114px 50px 114px;
     padding-bottom: 50px   
 }
 
