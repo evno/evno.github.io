@@ -3,7 +3,13 @@
 <head>
 <title>{{ page.title }}</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="stylesheet" type="text/css" href="http://evno.ro/style.css" />
+<link rel="stylesheet" type="text/css" href="/style.css" />
+{% if page.author == "Luciana Petroiu" %}
+    <link rel="author" href="https://plus.google.com/111420476044104461330" />
+{% elsif page.author == "Lucian Marin" %}
+    <link rel="author" href="https://plus.google.com/117162526572776655872" />
+{% endif %}
+
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
