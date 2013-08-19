@@ -14,6 +14,6 @@ meta:
 ---
 Nu e un film, nu e un concert, e o ea, o galerie de arta, digitala in cazul de fata. Scapat de seminarul de ASC, la care spre uimirea mea nu am iesit la tabla (sunt ironic) am alergat fuguta acasa sa mananc ceva. In timp ce microundele incalzeau puiul shangai, stabileam cu Oana unde si cum ne intalnim. Ca de fiecare data cand iti propui sa ajungi intr-un anumit loc, drumul pana acolo e cel care iti distrage cel mai mult atentia. Cred ca e a zecea oara cand scap de controlori anul asta, nici in seama nu ma baga, dar nici bilet nu am, deci sunt chit cu cei de la RATB. Am ajuns la 115, dupa ce am mers pe jos pana la Romana, iar apoi cu 133, cu bilet de data asta, dar necompostat (I'm evil). Incercam sa gasesc prin multimea de tablouri expuse, lucrarile pe care le cunosteam deja dupa site-urile expozantilor. Stiati ca si <a href="http://cutteroz.carbonmade.com/">Oana</a> a expus? Ei bine, da, nu doar una, ci acum are chiar trei lucrari expuse. Mai sunt romani a caror ilustratii le-am recunoscut cu usurinta, ii amintesc pe Matei Apostolescu si Stefan Lucut.
 
-<img src='http://lucianmarin.com/assets/evno/galeria-115.jpg' alt='Galeria de artă digitală 115' />
+<img src='http://src.lucianmarin.com/evno/galeria-115.jpg' alt='Galeria de artă digitală 115' />
 
 Hai, ce mai asteptati, luati un prieten si ducetiva la singura galerie de arta digitala din capitala, prescurtat, <a href="http://www.115.ro/">115</a>.

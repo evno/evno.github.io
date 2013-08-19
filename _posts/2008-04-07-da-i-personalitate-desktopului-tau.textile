@@ -21,15 +21,15 @@ Eh, și uite că am gasit ceva nou și care mi-a schimbat puțin percepția desp
 
 Se numește <a href="http://www.desktoptopia.com/">Desktoptopia</a>... o aplicație micuță care nu face altceva decât să-mi caute wallpaperuri mișto și să mi le pună pe desktop. Mă lasă să schimb, să dau note și să resping imaginile care nu îmi plac și astfel nu mi le mai afişează.
 
-<img src="http://lucianmarin.com/assets/evno/desktoptopia-3.jpg" alt="Desktoptopia 3" width="455" height="230" />
+<img src="http://src.lucianmarin.com/evno/desktoptopia-3.jpg" alt="Desktoptopia 3" width="455" height="230" />
 
 <strong>Cum funcționează?</strong>
 
 Are deja o listă de feed-uri de unde își ia imaginile, pot să-i adaug oricând alte site-uri... el îmi ia automat imaginile și mi le schimbă din când în când... după cum îl configurez (şi bineînțeles că tocmai mi s-a schimbat wallpaperul... ha, și e chiar tare!).
 
-<img src="http://lucianmarin.com/assets/evno/desktoptopia-1.png" alt="Desktoptopia 1" width="424" height="82" />
+<img src="http://src.lucianmarin.com/evno/desktoptopia-1.png" alt="Desktoptopia 1" width="424" height="82" />
 
-<img src="http://lucianmarin.com/assets/evno/desktoptopia-2.png" alt="Desktoptopia 2" width="363" height="267" />
+<img src="http://src.lucianmarin.com/evno/desktoptopia-2.png" alt="Desktoptopia 2" width="363" height="267" />
 
 <strong>Ce îmi place cel mai mult la el?</strong>
 

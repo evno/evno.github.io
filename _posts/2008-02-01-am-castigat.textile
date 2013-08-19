@@ -16,7 +16,7 @@ meta:
 ---
 O invitaţie dublă la Rambo 4 de la <a href="http://www.metropotam.ro/">Metropotam</a>.
 
-<img src='http://lucianmarin.com/assets/evno/rambo-2008.jpg' alt='Rambo (2008)' />
+<img src='http://src.lucianmarin.com/evno/rambo-2008.jpg' alt='Rambo (2008)' />
 
 <a href="http://www.apple.com/trailers/lions_gate/rambo/">Trailer</a> (Apple) - <a href="http://www.imdb.com/title/tt0462499/">IMDB</a> - <a href="http://www.rottentomatoes.com/m/john_rambo/">RT</a>
 

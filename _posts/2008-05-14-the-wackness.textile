@@ -12,7 +12,7 @@ meta:
 ---
 Doar <a href="http://www.apple.com/trailers/sony/thewackness/">două</a> teaser-uri pentru filmul ăsta? Cred că e o glumă, proastă, pare de departe cel mai bun film de anul acesta. "Dear Sony Pictures, we want the movie trailer of The Wackness. Thank you, The Fans."
 
-<img src="http://lucianmarin.com/assets/evno/wackness-2008.jpg" alt="The Wackness (2008)" width="480" height="320" />
+<img src="http://src.lucianmarin.com/evno/wackness-2008.jpg" alt="The Wackness (2008)" width="480" height="320" />
 
 Dacă la americani apare pe 3 iulie, noi când o să-l vedem? De ce trebuie să aşteptăm de fiecare dată luni bune pentru ceva interesant?
 

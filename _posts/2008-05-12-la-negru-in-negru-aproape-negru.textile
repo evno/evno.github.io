@@ -17,7 +17,7 @@ meta:
 
 Film la negru, dacă îţi mai aduci aminte Mad Max. Mă aşteptam la încă o peliculă despre apocalipsă, despre viruşi mortali, despre chestii super sofisticate din viitor, etc. Dar nu a fost aşa, a fost mai bun, mai intens, mai captivant. Cu un final neaşteptat, cu popcorn şi nişte cola, Rhona Mitra te va ţine în suspans 113 minute.
 
-<img src="http://lucianmarin.com/assets/evno/doomsday-2008.jpg" alt="Doomsday (2008)" width="485" height="323" />
+<img src="http://src.lucianmarin.com/evno/doomsday-2008.jpg" alt="Doomsday (2008)" width="485" height="323" />
 
 <a href="http://www.apple.com/trailers/universal/doomsday/">Trailer</a> (Apple) - <a href="http://www.imdb.com/title/tt0483607/">IMDB</a>
 
@@ -25,7 +25,7 @@ Film la negru, dacă îţi mai aduci aminte Mad Max. Mă aşteptam la încă o p
 
 Film în negru, văzut de două ori, dar nu l-aş mai putea vedea niciodată. E genul de film care creşte exponenţial în intensitatea sentimentelor transmise de fiecare dată când îl vezi. E comic, e tragic, e dramatic, e real. Iar de fiecare dată la sfârşit îţi spui de unul singur "vreau şi eu".
 
-<img src="http://lucianmarin.com/assets/evno/ps-i-love-you-2008.jpg" alt="P.S. I Love You (2007)" width="485" height="324" />
+<img src="http://src.lucianmarin.com/evno/ps-i-love-you-2008.jpg" alt="P.S. I Love You (2007)" width="485" height="324" />
 
 <a href="http://www.apple.com/trailers/wb/psiloveyou/">Trailer</a> (Apple) - <a href="http://www.imdb.com/title/tt0431308/">IMDB</a>
 
@@ -33,6 +33,6 @@ Film în negru, văzut de două ori, dar nu l-aş mai putea vedea niciodată. E 
 
 Film aproape negru, iar Christina Ricci cu un nas aproape perfect. O poveste de dragoste modernă; dar mai interesant decât aceasta au fost cele trei motive care au stat la baza conturării personajului principal: să te accepţi şi să te placi aşa cum eşti, să ai incredere în tine şi să fii liber. Oare a reuşit Penelope să indeplinescă aceste criterii? Nu vă pot îndemna decât să-l urmăriţi.
 
-<img src="http://lucianmarin.com/assets/evno/penelope-2006.jpg" alt="Penelope (2006)" width="485" height="323" />
+<img src="http://src.lucianmarin.com/evno/penelope-2006.jpg" alt="Penelope (2006)" width="485" height="323" />
 
 <a href="http://www.apple.com/trailers/independent/penelope/">Trailer</a> (Apple) - <a href="http://www.imdb.com/title/tt0472160/">IMDB</a>

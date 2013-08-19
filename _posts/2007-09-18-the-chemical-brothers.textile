@@ -16,4 +16,4 @@ meta:
 ---
 Voi, da voi, stiu, nu, sunt sigur ca ati ascultat macar o melodie à la Chemical Brothers. Da da, clipul acela de pe MTV in care 2 pusti erau purtati de ritmul ultimului single lansat. V-as scrie o formula chimica, doar ca sa va impresionez, apoi as spune "Do it again", dar nu, nu sunt atat de implicat. Doua zeci octombrie, doua mii sapte, Sala Polivalenta, Bucuresti, sper ca nu se amana inca o data, vor sustine concert, ei, fratii "chemical". Daca m-as duce, as face-o pentru Galvanize, piesa care mi-a schimbat cursul monoton al vietii mele de licean. Am devenit dramatic dintr-o data? Daca da, nu ascultati la mine, faceti in asa fel incat sa nu aveti sambata aceea ocupata si indrazniti, poate merita.
 
-<img src="http://lucianmarin.com/assets/evno/chemical-brothers.jpg" alt="The Chemical Brothers" width="334" height="480" />
+<img src="http://src.lucianmarin.com/evno/chemical-brothers.jpg" alt="The Chemical Brothers" width="334" height="480" />

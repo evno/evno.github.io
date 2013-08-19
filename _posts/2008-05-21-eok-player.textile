@@ -15,7 +15,7 @@ meta:
 ---
 eOk.ro este site-ul pe care poţi asculta toată muzica românească din 1990 până astăzi, gratuit şi legal. Cu eOk Player poţi însă asculta muzica favorită direct de pe desktopul tău la fel cum o faci cu celelalte aplicaţii.
 
-<img src='http://lucianmarin.com/assets/evno/eok-player.jpg' alt='eOk Player' width="475" height="260" />
+<img src='http://src.lucianmarin.com/evno/eok-player.jpg' alt='eOk Player' width="475" height="260" />
 
 Intrucţiunile pentru descărcare şi utilizare:
 
