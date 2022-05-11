@@ -15,10 +15,10 @@ meta:
 ---
 Se pare că demo-ul pentru PC a apărut de ceva vreme. L-am încercat și eu azi în VMware Fusion. Spre uimirea mea s-a mișcat binișor la detalii minime, chiar prompt, mi-a plăcut. Ar trebui să fie cel mai bun joc al seriei (referire la FIFA 99), au schimbat din nou controlul și cred că iar nu o să avem parte de echipe românești. Asta e, oricum nu puteam juca cu Bănel Nicoliță; juca de unul singur. Apropo, se lansează pe 3 octombrie.
 
-<img src="http://src.lucianmarin.com/evno/fifa09.jpg" alt="FIFA 09" width="500" height="281" />
+<img src="/images/fifa09.jpg" alt="FIFA 09" width="500" height="281" />
 
 <p class="separator">§</p>
 
 Incă una de la <a href="http://blog.raduceuca.com/2008/09/28/cupa-uefa-europa-league/">Radu</a> pentru fanii dinamoviști și rapidiști, UEFA Cup se va numi UEFA Europa League începând cu sezonul 2009/10.
 
-<img src="http://src.lucianmarin.com/evno/europa-league.jpg" alt="UEFA Europa League"  width="500" height="150" />
+<img src="/images/europa-league.jpg" alt="UEFA Europa League"  width="500" height="150" />

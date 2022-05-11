@@ -15,6 +15,6 @@ Chiar dacă n-are nici o legătură cu magnificul Bugs Bunny, <a href="http://ww
 
 PS: La mulți ani tuturor copiilor pentru 1 iunie!
 
-<img src="http://src.lucianmarin.com/evno/big-buck-bunny.jpg" alt="Big Buck Bunny (2008)" width="480" height="270" />
+<img src="/images/big-buck-bunny.jpg" alt="Big Buck Bunny (2008)" width="480" height="270" />
 
 <a href="http://vimeo.com/1084537">Streaming</a> (Vimeo) - <a href="http://youtube.com/watch?v=YE7VzlLtp-4">Streaming</a> (YouTube) - <a href="http://www.bigbuckbunny.org/index.php/download/">Download</a>

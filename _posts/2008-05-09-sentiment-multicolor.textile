@@ -13,7 +13,7 @@ author: Lucian Marin
 meta:
   _edit_last: '1'
 ---
-<img src="http://src.lucianmarin.com/evno/sentiment-multicolor.jpg" alt="Sentiment multicolor" width="485" height="373" />
+<img src="/images/sentiment-multicolor.jpg" alt="Sentiment multicolor" width="485" height="373" />
 
 Portocaliu, maieu, brunetă
 Fire dulce, suavă de fată.

@@ -16,7 +16,7 @@ meta:
 ---
 Se spune că dacă în noaptea de revelion iți pui o dorință, aceasta se va îndeplini în noul an. De aici a pornit și <a href="http://lucianmarin.com/wish/">ideea mea</a>. Acum e mai simplu și mai frumos să le transmiți celor dragi Sărbători Fericite și să le spui ce vrei cu adevărat de la Moș Crăciun.
 
-<img src="http://src.lucianmarin.com/evno/wish.jpg" alt="Poster creat de Lucian E. Marin în decembrie 2006." width="500" height="177" title="wish" />
+<img src="/images/wish.jpg" alt="Poster creat de Lucian E. Marin în decembrie 2006." width="500" height="177" title="wish" />
 
 <p class="caption">Poster creat de mine în <a href='http://www.flickr.com/photos/kalphegor/327621339/'>decembrie 2006</a>.</p>
 

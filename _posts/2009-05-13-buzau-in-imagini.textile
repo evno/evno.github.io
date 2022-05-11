@@ -16,6 +16,6 @@ Văzând că pozele reprezentative pentru <a href="http://www.flickr.com/groups/
 
 Ai fotografii din Buzău? Eşti pe Flickr? Atunci adaugă-le pe <a href="http://www.flickr.com/groups/buzau/">grup</a> pentru ca oricine să le vadă, sau găsi, mai uşor.
 
-<img src="http://src.lucianmarin.com/evno/buzau-palat.jpg" alt="buzau-palat" title="buzau-palat" width="500" height="334" class="alignnone size-full wp-image-443" />
+<img src="/images/buzau-palat.jpg" alt="buzau-palat" title="buzau-palat" width="500" height="334" class="alignnone size-full wp-image-443" />
 
 <p class="caption"><a href="http://www.flickr.com/photos/28731244@N08/3516427396/">Fotografie</a> realizată de Vlad Toma.</p>

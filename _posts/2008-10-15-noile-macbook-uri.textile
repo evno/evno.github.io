@@ -15,7 +15,7 @@ meta:
 ---
 Apple a lansat astăzi noile MacBook-uri. N-am să înșir toate noutățile și îmbunătățirile aduse noii generații de notebook-uri pentru că aceste detalii sunt pe siteul oficial pentru <a href="http://www.apple.com/macbookpro/">MacBook Pro</a>, <a href="http://www.apple.com/macbook/">MacBook</a>, respectiv <a href="http://www.apple.com/macbookair/">MacBook Air</a>.
 
-<img src="http://src.lucianmarin.com/evno/macbook-late-2008-500x288.jpg" alt="Apple MacBook - Late 2008" title="macbook-late-2008" width="500" height="288" />
+<img src="/images/macbook-late-2008-500x288.jpg" alt="Apple MacBook - Late 2008" title="macbook-late-2008" width="500" height="288" />
 
 Minusuri și alte probleme:
 <ul>
