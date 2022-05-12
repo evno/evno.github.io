@@ -6,7 +6,7 @@ tags:
 status: draft
 type: post
 published: false
-author: Luciana Petroiu
+author: LP
 meta:
   _edit_last: '3'
 ---

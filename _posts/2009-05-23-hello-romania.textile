@@ -6,12 +6,12 @@ tags:
 status: publish
 type: post
 published: true
-author: Luciana Petroiu
+author: LP
 meta:
   _edit_last: '3'
 ---
 Hello, Romania!
-Un inceput de vara usor deviat. 
+Un inceput de vara usor deviat.
 Un Bucharest Rock Arena cu un cap de afis  care nu stie unde se afla Romania. Mii de fani dezamagiti ce si-au eliberat <del datetime="2009-05-23T19:30:29+00:00">frustrarea</del> energia fix in teasta celor care le-au vandut fericirea.  O plasa de zile mari demascata prea devreme. Bineinteles ca partenerul roman nu a stiut nimic…in mod ciudat, desi naivitatea nu implica prudenta, aceasta a existat sub forma a numai 10.000 € virati in conturile partenerului israelian. Bineinteles ca dintr-un parteneriat romano-israelian a pierdut al treilea jucator. O teapa de zile mari care a lasat o umbra fada deasupra One-Event si a TicketPoint/Diverta. Atat.
 Un Depeche Mode cu constipatie, anulato-suspendato-amanat pentru iulie sau septembrie. Un E-Magic cu strategie plina, completa, atent construita.
 In program:

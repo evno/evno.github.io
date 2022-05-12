@@ -6,7 +6,7 @@ tags:
 status: publish
 type: post
 published: true
-author: Luciana Petroiu
+author: LP
 meta:
   blogger_blog: evno.blogspot.com
   blogger_author: Lu

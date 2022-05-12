@@ -6,7 +6,7 @@ tags:
 status: publish
 type: post
 published: true
-author: Luciana Petroiu
+author: LP
 meta:
   _edit_last: '3'
 ---
@@ -22,4 +22,3 @@ Stewart se joaca de-a v-ati ascuns pe site-ul oficial (vine sau nu ?).
 Intre timp, noi ne facem mari.
 Gandeste-te la fidelitate. Unul dintre cele mai limitative sentimente, alaturi de teama de esec.
 Sa incepem.
-

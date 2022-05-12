@@ -7,7 +7,7 @@ tags:
 status: publish
 type: post
 published: true
-author: Lucian Marin
+author: LM
 meta: {}
 ---
 După ce am fost întrerup de unșpe mii de ori de contactele de pe Messenger și indivizii care mă sunau ca în nici o altă zi, am reușit să văd filmul acesta. Nu pot să-l compar cu nici un alt film, poate doar cu 007 Casino Royale, dar sunt diferite. Cred că este cel mai bun film adaptat după un joc; un joc care, deși am vrut să-l termin, nu am reușit să duc la bun sfârșit mai mult de 2 sau 3 misiuni (shame on me).

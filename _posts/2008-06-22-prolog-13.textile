@@ -8,7 +8,7 @@ tags:
 status: publish
 type: post
 published: true
-author: Lucian Marin
+author: LM
 meta:
   _edit_last: '1'
 ---

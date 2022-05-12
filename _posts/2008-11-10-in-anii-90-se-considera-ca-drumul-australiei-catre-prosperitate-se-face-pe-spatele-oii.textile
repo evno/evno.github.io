@@ -7,11 +7,10 @@ tags:
 status: publish
 type: post
 published: true
-author: Luciana Petroiu
+author: LP
 meta:
   _edit_last: '3'
 ---
 
-Acum, tot pe oi au rămas, că e ţara maaaare şi e oi multe. Numai că preţul lânii a scăzut atât de mult, încât australienii albi au probleme din cauza costurilor de producţie. În paralel, au de suferit şi crescătorii de vite, şi cultivatorii de grâu. 
-Cam aşa a apărut turismul rural în Australia. Din nevoie! Cum apar mai toate lucrurile pe lumea asta. Turiştii vin să vadă animale altfel decât în enciclopedii vizuale, iar fermierii valorifică potenţialul turistic al fermelor care se întind adeseori pe suprafeţe mai mari de 13.000 kmp. În tot acest timp, australienii negri (aborigenii), stau în rezervaţii şi vânează ca acum 400 de ani, când nu le tulbura nimeni liniştea. Cei care nu s-au adaptat colonizării, au ajuns alcoolici şi criminali. Nu aş merge în Australia, de frică să nu rămân fără combustibil între 2 localităţi. Aş merge pentru Marea Barieră de Corali. Dar cât de banal.. 
-  
+Acum, tot pe oi au rămas, că e ţara maaaare şi e oi multe. Numai că preţul lânii a scăzut atât de mult, încât australienii albi au probleme din cauza costurilor de producţie. În paralel, au de suferit şi crescătorii de vite, şi cultivatorii de grâu.
+Cam aşa a apărut turismul rural în Australia. Din nevoie! Cum apar mai toate lucrurile pe lumea asta. Turiştii vin să vadă animale altfel decât în enciclopedii vizuale, iar fermierii valorifică potenţialul turistic al fermelor care se întind adeseori pe suprafeţe mai mari de 13.000 kmp. În tot acest timp, australienii negri (aborigenii), stau în rezervaţii şi vânează ca acum 400 de ani, când nu le tulbura nimeni liniştea. Cei care nu s-au adaptat colonizării, au ajuns alcoolici şi criminali. Nu aş merge în Australia, de frică să nu rămân fără combustibil între 2 localităţi. Aş merge pentru Marea Barieră de Corali. Dar cât de banal..
